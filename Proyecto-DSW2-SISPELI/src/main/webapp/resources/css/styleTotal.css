@@ -1,0 +1,29 @@
+body {
+  /*font: 13px/20px "Lucida Grande", Tahoma, Verdana, sans-serif;*/
+  color: #404040;
+  background-image: url("https://www.elfinanciero.com.mx/uploads/2020/07/14/84fec9a8e41594738971_standard_desktop_medium_retina.webp");
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: #66999;
+}
+
+.container{
+	background-color: white;
+	margin-top: 10px;
+	padding-top: 5px;
+}
+
+.titulo{
+	 background: linear-gradient(#0000fb,#840084,black);
+   -webkit-background-clip: text;
+     color: transparent;
+     
+	font-family: fantasy;
+	font-style: italic;
+	font-weight:bold;
+	font-size: 50px;
+	text-align: center;
+}
+
+
